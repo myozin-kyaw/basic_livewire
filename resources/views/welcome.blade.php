@@ -34,6 +34,10 @@
 
         <livewire:post-component/>
 
+        <hr>
+
+        <livewire:poll-component/>
+
         <livewire:scripts />
     </body>
 </html>

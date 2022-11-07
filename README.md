@@ -25,6 +25,8 @@
 
 - wire:poll.1s 
 
+- Polling automatically refresh component for you !
+
 ## Features
 
 - Contact Form 
