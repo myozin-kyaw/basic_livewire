@@ -29,5 +29,7 @@
 
 - Contact Form 
 - Search Dropdown
+- Datatable
+- Blog Post Comment
 
 
