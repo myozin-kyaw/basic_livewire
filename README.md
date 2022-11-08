@@ -27,6 +27,10 @@
 
 - Polling automatically refresh component for you !
 
+## Ignore
+
+- wire:ignore
+
 ## Features
 
 - Contact Form 
