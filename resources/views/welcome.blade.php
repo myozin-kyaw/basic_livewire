@@ -38,6 +38,10 @@
 
         <livewire:poll-component/>
 
+        <hr>
+
+        <livewire:image-upload-component/>
+
         <livewire:scripts />
     </body>
 </html>

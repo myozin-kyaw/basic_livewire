@@ -1,12 +1,5 @@
 <div>
 
-    @if ($successMessage)
-        <div class="p-3  my-5 rounded-md bg-green-300 flex justify-between">
-            <div>{{ $successMessage }}</div>
-            <div wire:click="$set('successMessage', null)" class="cursor-pointer">&times;</div>
-        </div>
-    @endif
-
     <div class="w-2/5 ">
         <form wire:submit.prevent="postComment" method="POST">
         @csrf

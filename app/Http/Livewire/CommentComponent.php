@@ -37,6 +37,8 @@ class CommentComponent extends Component
         $this->post = $model->post;
 
         $this->successMessage = 'Comment successfully created !';
+
+        $this->emit('successMessage', $this->successMessage);
     }
 
     public function destroy($id)
