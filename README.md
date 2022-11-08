@@ -33,5 +33,6 @@
 - Search Dropdown
 - Datatable
 - Blog Post Comment
+- File Upload
 
 
